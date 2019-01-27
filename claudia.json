@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "postboxes-api-executor",
+    "name": "postboxes-api",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "ygytf5wc4e"
+  }
+}
